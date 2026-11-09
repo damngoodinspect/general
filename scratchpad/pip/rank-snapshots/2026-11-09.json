@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-09",
+  "source": "ahrefs",
+  "domain": "damngoodinspection.com",
+  "keywords": [
+    {"keyword": "damn good inspections", "position": 1, "volume": 60, "traffic": 21},
+    {"keyword": "damngood inspection", "position": 2, "volume": 60, "traffic": 16},
+    {"keyword": "home inspection pompano beach fl", "position": 9, "volume": 50, "traffic": 2},
+    {"keyword": "where's my inspector pompano beach", "position": 8, "volume": 30, "traffic": 1},
+    {"keyword": "what is the 4 point inspection", "position": 9, "volume": 10, "traffic": 0},
+    {"keyword": "4-point inspection form florida", "position": 9, "volume": 0, "traffic": 0},
+    {"keyword": "florida roof inspection requirements", "position": 7, "volume": 0, "traffic": 0}
+  ],
+  "domain_rating": 19.0,
+  "org_traffic": 39,
+  "org_keywords": 7,
+  "org_keywords_1_3": 2,
+  "dropped_since_last_week": [
+    {"keyword": "new building inspection", "last_position": 3, "last_traffic": 5},
+    {"keyword": "construction issues", "last_position": 8, "last_traffic": 3}
+  ]
+}
