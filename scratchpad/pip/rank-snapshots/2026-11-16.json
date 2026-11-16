@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-16",
+  "source": "ahrefs",
+  "domain": "damngoodinspection.com",
+  "keywords": [
+    {"keyword": "damn good inspections", "best_position": 1, "volume": 60, "sum_traffic": 21},
+    {"keyword": "home inspection pompano beach fl", "best_position": 9, "volume": 50, "sum_traffic": 2},
+    {"keyword": "where's my inspector pompano beach", "best_position": 8, "volume": 30, "sum_traffic": 1},
+    {"keyword": "home inspection boynton beach fl", "best_position": 8, "volume": 10, "sum_traffic": 0},
+    {"keyword": "dhitampa.com 4 point inspection", "best_position": 9, "volume": 0, "sum_traffic": 0}
+  ],
+  "domain_rating": 19.0,
+  "org_traffic": 24,
+  "org_keywords": 5,
+  "org_keywords_1_3": 1
+}
