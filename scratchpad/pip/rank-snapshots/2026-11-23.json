@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-23",
+  "source": "ahrefs",
+  "domain": "damngoodinspection.com",
+  "keywords": [
+    {"keyword": "damn good inspections", "position": 1, "volume": 60, "traffic": 21},
+    {"keyword": "damngood inspection", "position": 1, "volume": 60, "traffic": 19},
+    {"keyword": "home inspection pompano beach fl", "position": 8, "volume": 30, "traffic": 1},
+    {"keyword": "where's my inspector pompano beach", "position": 9, "volume": 20, "traffic": 1},
+    {"keyword": "dhitampa.com 4 point inspection", "position": 9, "volume": 0, "traffic": 0},
+    {"keyword": "home inspection boynton beach fl", "position": 8, "volume": 10, "traffic": 0}
+  ],
+  "domain_rating": 19.0,
+  "org_traffic": 42,
+  "org_keywords": 6,
+  "org_keywords_1_3": 2,
+  "competitors": {
+    "cfbinspect.com": {"org_traffic": 601, "org_keywords": 86, "org_keywords_1_3": 30},
+    "orlandohomeinspection.com": {"org_traffic": 242, "org_keywords": 24, "org_keywords_1_3": 8},
+    "herohomeinspections.com": {"org_traffic": 10, "org_keywords": 18, "org_keywords_1_3": 11}
+  }
+}
